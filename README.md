@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aruh1</h1>
+<h1 align="center">Hi 👋, I'm Rizky Pratama</h1>
 <h3 align="center">A Passion of lazy code and fansubbing</h3>
 
 - 🌱 I’m currently learning **PHP, JavaScript, Python, SQL, Node JS, Go, Java**
