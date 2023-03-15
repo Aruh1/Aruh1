@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aruh1</h1>
-<h3 align="center">A Passtion of lazy code and fansubbing</h3>
+<h3 align="center">A Passion of lazy code and fansubbing</h3>
 
 - 🌱 I’m currently learning **PHP, JavaScript, Python, SQL, Node JS, Go, Java**
 
-- 📝 I regularly write articles on [pololer.my.id/](pololer.my.id/)
+- 💬 Ask me about **PHP, Node JS is my passion**
 
 - 📫 How to reach me **pololerid@gmail.com**
 
