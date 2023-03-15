@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **PHP, JavaScript, Python, SQL, Node JS, Go, Java**
 
-- 👨‍💻 All of my projects are available at [pekmen.my.id/](pekmen.my.id/)
+- 📝 I regularly write articles on [pololer.my.id/](pololer.my.id/)
 
-- 📄 Know about my experiences [pololer.my.id/](pololer.my.id/)
+- 📫 How to reach me **pololerid@gmail.com**
 
 - ⚡ Fun fact **Yep, I am Lazy Fansubbing**
 
