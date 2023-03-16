@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **PHP, Node JS is my passion**
 
-- 📫 How to reach me **pololerid@gmail.com**
+- 📫 How to reach me **rizkypraschool@gmail.com**
 
 - ⚡ Fun fact **Yep, I am Lazy Fansubbing**
 
