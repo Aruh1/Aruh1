@@ -26,7 +26,3 @@
 
 ## Activity:
 [![Discord Presence](https://lanyard.cnrad.dev/api/454223855607742474)](https://discord.com/users/454223855607742474)
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/pololer"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pololer" /></a></p><br><br>
-
