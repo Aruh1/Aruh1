@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizky Pratama</h1>
 <h3 align="center">A Passion of lazy code and fansubbing</h3>
 
-- 🌱 I’m currently learning **PHP, JavaScript, Python, SQL, Node JS, Golang, Java**
-
-- 💬 Ask me about **PHP, Node JS is my passion**
-
-- 📫 How to reach me **rizkypraschool@gmail.com**
-
-- ⚡ Fun fact **Yep, I am Lazy Fansubbing**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/poloreau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poloreau" height="30" width="40" /></a>
