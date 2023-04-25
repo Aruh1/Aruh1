@@ -16,5 +16,10 @@
   <a href="https://pekmen.my.id/"><img alt="Website" src="https://img.shields.io/website?style=flat-square&logo=google-chrome&logoColor=white&up_message=Pekmen&url=https%3A%2F%2Fpekmen.my.id%2F"></a>
 </div>
 
+
+https://user-images.githubusercontent.com/104710750/234238653-24a6ccc6-747b-4223-844e-f5ae3411f1d3.mov
+
+
 ## Activity:
 [![Discord Presence](https://lanyard.cnrad.dev/api/454223855607742474)](https://discord.com/users/454223855607742474)
+
