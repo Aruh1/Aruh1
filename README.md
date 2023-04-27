@@ -1,7 +1,7 @@
 # Hey There! 👋
 **I'm Rizky Pratama (he/they)** - I'm a fullstack developer
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=androidstudio,aws,azure,bootstrap,discord,bots,gcp,git,go,heroku,java,js,linux,lua,mongodb,mysql,nodejs,php,py,vscode,wordpress,workers&perline=11)](https://skillicons.dev)
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/454223855607742474?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/454223855607742474)
@@ -20,3 +20,7 @@ https://user-images.githubusercontent.com/104710750/234238653-24a6ccc6-747b-4223
 ## Activity:
 [![Discord Presence](https://lanyard.cnrad.dev/api/454223855607742474)](https://discord.com/users/454223855607742474)
 
+<details>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Aruh1&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruh1&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
