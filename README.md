@@ -1,7 +1,7 @@
 # Hey There! 👋
 **I'm Rizky Pratama (he/they)** - I'm a fullstack developer
 
-[![SkillIcons](https://skillicons.dev/icons?i=androidstudio,aws,azure,bootstrap,discord,bots,gcp,git,go,heroku,java,js,linux,lua,mongodb,mysql,nodejs,php,py,vscode,wordpress,workers&perline=11)](https://skillicons.dev)
+![SkillIcons](https://skillicons.dev/icons?i=androidstudio,aws,azure,bootstrap,discord,bots,gcp,git,go,heroku,java,js,linux,lua,mongodb,mysql,nodejs,php,py,vscode,wordpress,workers&perline=11)
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/454223855607742474?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/454223855607742474)
