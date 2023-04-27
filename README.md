@@ -21,6 +21,7 @@ https://user-images.githubusercontent.com/104710750/234238653-24a6ccc6-747b-4223
 [![Discord Presence](https://lanyard.cnrad.dev/api/454223855607742474)](https://discord.com/users/454223855607742474)
 
 <details>
+
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Aruh1&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruh1&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
