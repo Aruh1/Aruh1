@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://www.pololer.my.id/"><img alt="Website" src="https://img.shields.io/website?style=flat-square&logo=google-chrome&logoColor=white&up_message=pololer&url=https%3A%2F%2Fwww.pololer.my.id%2F"></a>
-  <a href="https://www.pololer.web.id/"><img alt="Website" src="https://img.shields.io/website?style=flat-square&logo=google-chrome&logoColor=white&up_message=Pekmen&url=https%3A%2F%2Fwww.pololer.web.id%2F"></a>
+  <a href="https://www.pololer.web.id/"><img alt="Website" src="https://img.shields.io/website?style=flat-square&logo=google-chrome&logoColor=white&up_message=index&url=https%3A%2F%2Fwww.pololer.web.id%2F"></a>
 </div>
 
 ## Activity:
