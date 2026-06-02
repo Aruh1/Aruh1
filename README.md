@@ -1,23 +1,24 @@
 # Hey There! 👋
 **I'm Rizky Pratama (he/they)** - I'm a fullstack developer
 
-![SkillIcons](https://skillicons.dev/icons?i=androidstudio,aws,azure,bootstrap,discord,bots,css,gcp,git,go,heroku,html,java,js,linux,lua,mongodb,mysql,nodejs,php,py,vscode,wordpress,workers&perline=12)
+<!-- Copy-paste in your Readme.md file -->
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/454223855607742474?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/454223855607742474)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/454223855607742474)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/454223855607742474)](https://dev.discordprofiles.me/openspotify/454223855607742474)
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=104710750" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=104710750&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Aruh1" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=104710750&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
-<div align="center">
-  <a href="https://www.pololer.my.id/"><img alt="Website" src="https://img.shields.io/website?style=flat-square&logo=google-chrome&logoColor=white&up_message=pololer&url=https%3A%2F%2Fwww.pololer.my.id%2F"></a>
-  <a href="https://www.pololer.web.id/"><img alt="Website" src="https://img.shields.io/website?style=flat-square&logo=google-chrome&logoColor=white&up_message=index&url=https%3A%2F%2Fwww.pololer.web.id%2F"></a>
-</div>
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-## Activity:
-[![Discord Presence](https://lanyard.cnrad.dev/api/454223855607742474)](https://discord.com/users/454223855607742474)
+<!-- Copy-paste in your Readme.md file -->
 
-<details>
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=104710750" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=104710750&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@Aruh1's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=104710750&image_size=auto&color_scheme=light" width="497.5" height="auto">
+  </picture>
+</a>
 
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Aruh1&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruh1&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
